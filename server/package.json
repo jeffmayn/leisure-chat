@@ -1,0 +1,23 @@
+{
+  "name": "leisure-server",
+  "version": "1.0.0",
+  "description": "Backend server for 2.5D chat universe",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "seed": "node db/seed.js",
+    "check": "node db/check.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.18.2",
+    "mongoose": "^8.19.1",
+    "socket.io": "^4.7.2"
+  }
+}
