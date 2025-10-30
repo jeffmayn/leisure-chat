@@ -2,6 +2,9 @@
 
 Et 2.5D chat univers inspireret af højhuset på n.dk, hvor brugere kan bevæge 2D avatarer rundt og chatte i realtid.
 
+![Preview](https://raw.githubusercontent.com/jeffmayn/leisure-chat/main/app/src/img/preview.gif)
+
+
 ## Projekt Struktur
 
 - **app/** - Vue 3 + TypeScript frontend med Socket.io client
