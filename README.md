@@ -4,6 +4,8 @@ Et 2.5D chat univers inspireret af højhuset på n.dk, hvor brugere kan bevæge 
 
 ![Preview](https://raw.githubusercontent.com/jeffmayn/leisure-chat/main/app/src/img/preview.gif)
 
+![License](https://img.shields.io/github/license/jeffmayn/leisure-chat?style=flat-square)
+
 
 ## Projekt Struktur
 
@@ -130,4 +132,3 @@ Frontend kører på http://localhost:5173
 - dotenv
 - CORS
 
-# leisure-chat
